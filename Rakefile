@@ -18,7 +18,7 @@ Jeweler::Tasks.new do |s|
   s.email = "info@collectiveidea.com"
   s.homepage = "http://github.com/collectiveidea/awesome_nested_set"
   s.authors = ["Brandon Keepers", "Daniel Morrison"]
-  s.add_dependency "activerecord", ['>= 3.0.0.rc']
+  s.add_dependency "activerecord", ['~> 3.0.4']
   s.has_rdoc = true
   s.extra_rdoc_files = [ "README.rdoc"]
   s.rdoc_options = ["--main", "README.rdoc", "--inline-source", "--line-numbers"]
