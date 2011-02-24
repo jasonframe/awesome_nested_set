@@ -12,7 +12,7 @@ require 'rcov/rcovtask'
 #require "load_multi_rails_rake_tasks"
 
 Jeweler::Tasks.new do |s|
-  s.name = "be9-awesome_nested_set"
+  s.name = "awesome_nested_set"
   s.summary = "An awesome nested set implementation for Active Record"
   s.description = s.summary
   s.email = "info@collectiveidea.com"

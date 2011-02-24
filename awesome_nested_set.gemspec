@@ -4,7 +4,7 @@
 # -*- encoding: utf-8 -*-
 
 Gem::Specification.new do |s|
-  s.name = %q{be9-awesome_nested_set}
+  s.name = %q{awesome_nested_set}
   s.version = "1.4.3"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
@@ -21,6 +21,7 @@ Gem::Specification.new do |s|
     "README.rdoc",
     "Rakefile",
     "VERSION",
+    "awesome_nested_set.gemspec",
     "init.rb",
     "lib/awesome_nested_set.rb",
     "lib/awesome_nested_set/base.rb",
